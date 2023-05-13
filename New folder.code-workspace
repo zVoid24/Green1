@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../New folder"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "c",
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"regex": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
